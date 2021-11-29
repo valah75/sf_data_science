@@ -2,7 +2,7 @@
 
 # My Data Science projects
 
-From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scientist-pro).
+From the [SkillFactory Data Science course](https://skillfactory.ru/data-scientist-pro).
 
 SF homework
 
