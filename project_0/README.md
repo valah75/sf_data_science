@@ -3,7 +3,7 @@
 
 ## Оглавление
 
-1.Описание проекта
+[1.Описание проекта](https://github.com/valah75/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
 
 2.Какой кейс решаем?
 
