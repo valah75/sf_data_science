@@ -1,4 +1,4 @@
-# sf_data_science
+# [Skill Factory](https://skillfactory.ru)
 
 # My Data Science projects
 
